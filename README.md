@@ -3,7 +3,7 @@
 ## Team Members
 
 - **YANG RUNKANG**  
-  @***ShanghaiTech University***
+  @***ShanghaiTech University***  
   Major in ***Computer Science***
 
 - **WEN SIJIE**  
@@ -71,7 +71,7 @@ We delved into statistical methods and machine learning algorithms. The lab invo
 
 The final day of the week covered backend communications, including HTTP, MQTT, and database interactions. The lab focused on securing MQTT and integrating it with other backend services.
 
-## Conclusion
+---
 
 Throughout the first week of the NUS-SOC Summer Workshop, we gained substantial knowledge and practical experience in deep learning and related technologies. Our completed labs demonstrate our understanding and ability to apply these concepts in various contexts.
 
